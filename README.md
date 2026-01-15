@@ -21,9 +21,24 @@
 </p>
 
 
+<h3>GitHub Stats</h3>
+
+![](https://github-readme-stats.vercel.app/api?username=aruthen&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=aruthen&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=aruthen&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+
+<h3>GitHub Trophies</h3>
+
+![](https://github-profile-trophy.vercel.app/?username=aruthen&theme=gruvbox&no-frame=false&no-bg=true&margin-w=4)
+
+---
+[![](https://visitcount.itsvg.in/api?id=aruthen&icon=0&color=0)](https://visitcount.itsvg.in)
+
 <h3>Where to find me</h3>
 <p><a href="https://github.com/aruthen" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://www.instagram.com/maruthamwy/" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" /></a> <a href="https://www.linkedin.com/in/marutha-wira-yuda-41704a112/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
+
+
 
 ------------
 
