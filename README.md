@@ -20,14 +20,11 @@
   <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
 </p>
 
-<h3>Welcome to <img src="https://cdn-icons-png.flaticon.com/512/197/197559.png" width="13"/> Bogor!</h3>
-<p><img width="200" src="" /> <img width="200" src="" /> <img width="200" src="" /></p>
-<p>Above are the last 3 pictures posted by <a href="https://www.instagram.com/visitbogor/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/1024px-Instagram_logo_2016.svg.png" width="20"/> @visitbogor!</a></p>
 
 <h3>Where to find me</h3>
 <p><a href="https://github.com/aruthen" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://www.instagram.com/maruthamwy/" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" /></a> <a href="https://www.linkedin.com/in/marutha-wira-yuda-41704a112/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
 
 ------------
-<p align="center">This <i>README</i> file is generated <b>every 3 hours</b>!</br><a href="https://medium.com/@th.guibert/how-to-create-a-self-updating-readme-md-for-your-github-profile-f8b05744ca91">Create your own here!</a></p>
+
 <p align="center"><img alt="Stars" src="https://img.shields.io/github/stars/aruthen/aruthen?style=flat-square&labelColor=343b41"/> <img alt="Forks" src="https://img.shields.io/github/forks/aruthen/aruthen?style=flat-square&labelColor=343b41"/></p>
